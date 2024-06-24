@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Create header
     const header = document.createElement('header');
     header.innerHTML = `
-      <h1>Welcome to Our Landing Page</h1>
+      <h1>Our Landing Page</h1>
       <p>Discover amazing products and services.</p>
     `;
     app.appendChild(header);
