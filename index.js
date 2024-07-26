@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   
 
-  const number = [1, 2, 3, 4, 5, 6]
+  const number = [1, 2, 3, 4, 5]
 
   const dubnumber = number.map(num => num * 2)
 
